@@ -1,5 +1,11 @@
 ### Hi there 👋
+Want To See Holopin Badges click on below ↓
 [![@mohaksinghania's Holopin board](https://holopin.me/mohaksinghania)](https://holopin.io/@mohaksinghania)
+I am presently persuing Masters in Data Science and Analytics from School of Data Science and Forecasting, DAVV University, Indore.
+My Skills include - AWS Cloud Practitioner , C , C++ , Python (Numpy, Pandas, Matplotlib) , SQL , HTML.
+I am eager to learn and explore different areas of technology.
+- 📫 How to reach me: Just Reach Me through Linkedin → https://www.linkedin.com/in/mohak-singhania-9a1160215/
+- 🌱 I’m currently learning → Google Cloud Computing
 <!--
 **MohakSinghania/MohakSinghania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
