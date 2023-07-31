@@ -1,6 +1,6 @@
 ### Hi there 👋
 Want To See Holopin Badges click on below ↓
-(https://holopin.me/mohaksinghania)](https://holopin.io/@mohaksinghania)
+[![@mohaksinghania's Holopin board](https://holopin.me/mohaksinghania)](https://holopin.io/@mohaksinghania)
 I am presently persuing Masters in Data Science and Analytics from School of Data Science and Forecasting, DAVV University, Indore.
 My Skills include - AWS Cloud Practitioner , C , C++ , Python (Numpy, Pandas, Matplotlib) , SQL , HTML.
 I am eager to learn and explore different areas of technology.
